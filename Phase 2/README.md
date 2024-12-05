@@ -7,7 +7,7 @@
 
 IMPORTANT: The results after running the code on GPU are stored in .npy files which can be found in Divij folder in the remote host given to us. The files were too large (around 7GB) to be uploaded here. Running few blocks takes hours of time even on GPU, hence we can use those files to save time.
 
-# How to run on remote host?
+# How to run on IPR remote host?
 1. Go to Divij folder
 2. Run conda activate divij
 3. Now you can run train_LFW.ipynb file to get results as .npy files are there in that directory and loaded in the code directly.
